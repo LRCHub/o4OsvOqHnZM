@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "ムリムリ進化論 / ナナヲアカリ",
+  "base_artist": "ナナヲアカリ",
+  "createdAt": "2025-12-03T07:17:23.922882Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ムリムリ進化論",
+      "artist": "ナナヲアカリ",
+      "has_synced": true,
+      "path": "select/01_ムリムリ進化論_ナナヲアカリ.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ムリムリ進化論",
+      "artist": "NANAOAKARI",
+      "has_synced": true,
+      "path": "select/02_ムリムリ進化論_NANAOAKARI.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ムリムリ進化論",
+      "artist": "ナナヲアカリ",
+      "has_synced": true,
+      "path": "select/03_ムリムリ進化論_ナナヲアカリ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ムリムリ進化論",
+      "artist": "ナナヲアカリ",
+      "has_synced": false,
+      "path": "select/pl_01_ムリムリ進化論_ナナヲアカリ.txt"
+    }
+  ]
+}
