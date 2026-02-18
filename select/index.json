@@ -1,40 +1,40 @@
 {
   "version": 1,
-  "base_track": "ムリムリ進化論 / ナナヲアカリ",
+  "base_track": "ツギハギ",
   "base_artist": "ナナヲアカリ",
-  "createdAt": "2025-12-03T07:17:23.922882Z",
+  "createdAt": "2026-02-18T16:23:14.437790Z",
   "candidates": [
     {
       "id": "lrclib_1",
       "source": "lrclib",
-      "title": "ムリムリ進化論",
-      "artist": "ナナヲアカリ",
+      "title": "ツギハギ",
+      "artist": "青山吉能",
       "has_synced": true,
-      "path": "select/01_ムリムリ進化論_ナナヲアカリ.lrc"
+      "path": "select/01_ツギハギ_青山吉能.lrc"
     },
     {
       "id": "lrclib_2",
       "source": "lrclib",
-      "title": "ムリムリ進化論",
-      "artist": "NANAOAKARI",
-      "has_synced": true,
-      "path": "select/02_ムリムリ進化論_NANAOAKARI.lrc"
+      "title": "ツギハギ",
+      "artist": "佐藤流司",
+      "has_synced": false,
+      "path": "select/02_ツギハギ_佐藤流司.txt"
     },
     {
       "id": "lrclib_3",
       "source": "lrclib",
-      "title": "ムリムリ進化論",
-      "artist": "ナナヲアカリ",
-      "has_synced": true,
-      "path": "select/03_ムリムリ進化論_ナナヲアカリ.lrc"
+      "title": "ツギハギ",
+      "artist": "椎名もた",
+      "has_synced": false,
+      "path": "select/03_ツギハギ_椎名もた.txt"
     },
     {
       "id": "petitlyrics_1",
       "source": "petitlyrics",
-      "title": "ムリムリ進化論",
+      "title": "ツギハギ",
       "artist": "ナナヲアカリ",
       "has_synced": false,
-      "path": "select/pl_01_ムリムリ進化論_ナナヲアカリ.txt"
+      "path": "select/pl_01_ツギハギ_ナナヲアカリ.txt"
     }
   ]
 }
