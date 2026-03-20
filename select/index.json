@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "ムリムリ進化論",
   "base_artist": "ナナヲアカリ",
-  "createdAt": "2026-03-18T15:30:11.051437Z",
+  "createdAt": "2026-03-20T14:27:02.284434Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -41,17 +41,26 @@
       "source": "localdb",
       "title": "ムリムリ進化論",
       "artist": "ナナヲアカリ",
-      "has_synced": false,
-      "path": "select/localdb_01_ムリムリ進化論_ナナヲアカリ.txt",
-      "repo_name": "o4OsvOqHnZM"
+      "has_synced": true,
+      "path": "select/localdb_01_ムリムリ進化論_ナナヲアカリ.lrc",
+      "repo_name": "6To9uuClTuw"
     },
     {
       "id": "localdb_2",
       "source": "localdb",
       "title": "ムリムリ進化論",
       "artist": "ナナヲアカリ",
+      "has_synced": false,
+      "path": "select/localdb_02_ムリムリ進化論_ナナヲアカリ.txt",
+      "repo_name": "o4OsvOqHnZM"
+    },
+    {
+      "id": "localdb_3",
+      "source": "localdb",
+      "title": "ムリムリ進化論",
+      "artist": "ナナヲアカリ",
       "has_synced": true,
-      "path": "select/localdb_02_ムリムリ進化論_ナナヲアカリ.lrc",
+      "path": "select/localdb_03_ムリムリ進化論_ナナヲアカリ.lrc",
       "repo_name": "xXj4BV_Blps"
     }
   ]
